@@ -1,0 +1,125 @@
+NAME
+    Task::BeLike::TomFahle
+
+DESCRIPTION
+    Just an install package for CPAN modules I frequently use.
+
+TASKs
+  App::Ack
+    App::Ack <http://search.cpan.org/perldoc?App::Ack>
+
+  Mozilla::CA
+    Mozilla::CA <http://search.cpan.org/perldoc?Mozilla::CA>
+
+  Perl::Tidy
+    Perl::Tidy <http://search.cpan.org/perldoc?Perl::Tidy>
+
+  Task::Kensho
+    Task::Kensho <http://search.cpan.org/perldoc?Task::Kensho>
+
+   Task::Kensho::Async
+    Task::Kensho::Async <http://search.cpan.org/perldoc?Task::Kensho::Async>
+
+   Task::Kensho::CLI
+    Task::Kensho::CLI <http://search.cpan.org/perldoc?Task::Kensho::CLI>
+
+   Task::Kensho::Config
+    Task::Kensho::Config
+    <http://search.cpan.org/perldoc?Task::Kensho::Config>
+
+   Task::Kensho::DBDev
+    Task::Kensho::DBDev <http://search.cpan.org/perldoc?Task::Kensho::DBDev>
+
+   Task::Kensho::Dates
+    Task::Kensho::Dates <http://search.cpan.org/perldoc?Task::Kensho::Dates>
+
+   Task::Kensho::Email
+    Task::Kensho::Email <http://search.cpan.org/perldoc?Task::Kensho::Email>
+
+   Task::Kensho::ExcelCSV
+    Task::Kensho::ExcelCSV
+    <http://search.cpan.org/perldoc?Task::Kensho::ExcelCSV>
+
+   Task::Kensho::Exceptions
+    Task::Kensho::Exceptions
+    <http://search.cpan.org/perldoc?Task::Kensho::Exceptions>
+
+   Task::Kensho::Hackery
+    Task::Kensho::Hackery
+    <http://search.cpan.org/perldoc?Task::Kensho::Hackery>
+
+   Task::Kensho::Logging
+    Task::Kensho::Logging
+    <http://search.cpan.org/perldoc?Task::Kensho::Logging>
+
+   Task::Kensho::ModuleDev
+    Task::Kensho::ModuleDev
+    <http://search.cpan.org/perldoc?Task::Kensho::ModuleDev>
+
+   Task::Kensho::OOP
+    Task::Kensho::OOP <http://search.cpan.org/perldoc?Task::Kensho::OOP>
+
+   Task::Kensho::Scalability
+    Task::Kensho::Scalability
+    <http://search.cpan.org/perldoc?Task::Kensho::Scalability>
+
+   Task::Kensho::Testing
+    Task::Kensho::Testing
+    <http://search.cpan.org/perldoc?Task::Kensho::Testing>
+
+   Task::Kensho::Toolchain
+    Task::Kensho::Toolchain
+    <http://search.cpan.org/perldoc?Task::Kensho::Toolchain>
+
+   Task::Kensho::WebCrawling
+    Task::Kensho::WebCrawling
+    <http://search.cpan.org/perldoc?Task::Kensho::WebCrawling>
+
+   Task::Kensho::WebDev
+    Task::Kensho::WebDev
+    <http://search.cpan.org/perldoc?Task::Kensho::WebDev>
+
+   Task::Kensho::XML
+    Task::Kensho::XML Task::Kensho::XML
+    <http://search.cpan.org/perldoc?Task::Kensho::XML>
+
+SEE ALSO
+    Inspired by
+
+    *   Task::BeLike::RJBS
+
+        <http://search.cpan.org/perldoc?Task::BeLike::RJBS>
+
+    *   Task::BeLike::hanekomu
+
+        <http://search.cpan.org/perldoc?Task::BeLike::hanekomu>
+
+    *   Task::BeLike::.*
+
+        <http://search.cpan.org/perldoc?Task::BeLike>
+
+SUPPORT
+    You can also look for information at:
+
+    *   RT: CPAN's request tracker
+
+        <http://rt.cpan.org/NoAuth/Bugs.html?Dist=Task-BeLike-TomFahle>
+
+    *   AnnoCPAN: Annotated CPAN documentation
+
+        <http://annocpan.org/dist/Task-BeLike-TomFahle>
+
+    *   CPAN Ratings
+
+        <http://cpanratings.perl.org/d/Task-BeLike-TomFahle>
+
+    *   Search CPAN
+
+        <http://search.cpan.org/dist/Task-BeLike-TomFahle/>
+
+COPYRIGHT & LICENSE
+    Copyright 2012 Thomas Fahle
+
+    This program is free software; you can redistribute it and/or modify it
+    under the same terms as Perl itself.
+

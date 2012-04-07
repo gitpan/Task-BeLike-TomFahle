@@ -1,0 +1,49 @@
+---
+abstract: unknown
+author:
+  - 'Thomas Fahle'
+  - 'Thomas Fahle <cpan@thomas-fahle.de>'
+build_requires:
+  ExtUtils::MakeMaker: 6.62
+  Test::More: 0
+configure_requires:
+  ExtUtils::MakeMaker: 6.62
+dynamic_config: 0
+generated_by: 'Module::Install version 1.04, CPAN::Meta::Converter version 2.120351'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Task-BeLike-TomFahle
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  App::Ack: 1.82
+  Mozilla::CA: 0
+  Perl::Tidy: 20090616
+  Task::Kensho: 0.28
+  Task::Kensho::Async: 0.28
+  Task::Kensho::CLI: 0.28
+  Task::Kensho::Config: 0.28
+  Task::Kensho::DBDev: 0.28
+  Task::Kensho::Dates: 0.28
+  Task::Kensho::Email: 0.28
+  Task::Kensho::ExcelCSV: 0.28
+  Task::Kensho::Exceptions: 0.28
+  Task::Kensho::Hackery: 0.28
+  Task::Kensho::Logging: 0.28
+  Task::Kensho::ModuleDev: 0.28
+  Task::Kensho::OOP: 0.28
+  Task::Kensho::Scalability: 0.28
+  Task::Kensho::Testing: 0.28
+  Task::Kensho::Toolchain: 0.28
+  Task::Kensho::WebCrawling: 0.28
+  Task::Kensho::WebDev: 0.28
+  Task::Kensho::XML: 0.28
+  perl: 5.010
+resources:
+  license: http://dev.perl.org/licenses/
+  repository: https://github.com/tomfahle/Task--BeLike--TomFahle.git
+version: 0.11
