@@ -7,12 +7,17 @@ license  'perl';
 
 build_requires 'Test::More';
 
-requires 'App::Ack'                  => '1.82';
+requires 'App::Ack'                  => '1.96';
+requires 'Bundle::CPAN'              => '0';
+requires 'Bundle::LWP'               => '0';
+requires 'CPAN::Reporter'            => '0';
+requires 'Metabase::Client::Simple'  => '0';
+requires 'Metabase::Fact'            => '0';
 requires 'Mozilla::CA'               => '0';
-requires 'Perl::Tidy'                => '20090616';
+requires 'Perl::Tidy'                => '20101217';
 requires 'Task::Kensho'              => '0.28';
 requires 'Task::Kensho::Async'       => '0.28';
-requires 'Task::Kensho::CLI'         => '0.28';
+requires 'Task::Kensho::CLI'         => '0.29';
 requires 'Task::Kensho::Config'      => '0.28';
 requires 'Task::Kensho::DBDev'       => '0.28';
 requires 'Task::Kensho::Dates'       => '0.28';
@@ -29,8 +34,10 @@ requires 'Task::Kensho::Toolchain'   => '0.28';
 requires 'Task::Kensho::WebCrawling' => '0.28';
 requires 'Task::Kensho::WebDev'      => '0.28';
 requires 'Task::Kensho::XML'         => '0.28';
+requires 'Test::Reporter'            => '0';
 
 repository 'https://github.com/tomfahle/Task--BeLike--TomFahle.git';
+homepage   'https://github.com/tomfahle/Task--BeLike--TomFahle';
 
 auto_install;
 

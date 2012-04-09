@@ -1,15 +1,14 @@
 ---
-abstract: unknown
+abstract: 'Just an install package for CPAN modules I frequently use.'
 author:
-  - 'Thomas Fahle'
   - 'Thomas Fahle <cpan@thomas-fahle.de>'
 build_requires:
   ExtUtils::MakeMaker: 6.62
   Test::More: 0
 configure_requires:
-  ExtUtils::MakeMaker: 6.62
+  ExtUtils::MakeMaker: 6.42
 dynamic_config: 0
-generated_by: 'Module::Install version 1.04, CPAN::Meta::Converter version 2.120351'
+generated_by: 'Module::Install version 0.92, CPAN::Meta::Converter version 2.120921'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -20,12 +19,17 @@ no_index:
     - inc
     - t
 requires:
-  App::Ack: 1.82
+  App::Ack: 1.96
+  Bundle::CPAN: 0
+  Bundle::LWP: 0
+  CPAN::Reporter: 0
+  Metabase::Client::Simple: 0
+  Metabase::Fact: 0
   Mozilla::CA: 0
-  Perl::Tidy: 20090616
+  Perl::Tidy: 20101217
   Task::Kensho: 0.28
   Task::Kensho::Async: 0.28
-  Task::Kensho::CLI: 0.28
+  Task::Kensho::CLI: 0.29
   Task::Kensho::Config: 0.28
   Task::Kensho::DBDev: 0.28
   Task::Kensho::Dates: 0.28
@@ -42,8 +46,10 @@ requires:
   Task::Kensho::WebCrawling: 0.28
   Task::Kensho::WebDev: 0.28
   Task::Kensho::XML: 0.28
+  Test::Reporter: 0
   perl: 5.010
 resources:
+  homepage: https://github.com/tomfahle/Task--BeLike--TomFahle
   license: http://dev.perl.org/licenses/
   repository: https://github.com/tomfahle/Task--BeLike--TomFahle.git
-version: 0.11
+version: 0.12

@@ -1,5 +1,6 @@
 NAME
-    Task::BeLike::TomFahle
+    Task::BeLike::TomFahle - Just an install package for CPAN modules I
+    frequently use.
 
 DESCRIPTION
     Just an install package for CPAN modules I frequently use.
@@ -7,6 +8,22 @@ DESCRIPTION
 TASKs
   App::Ack
     App::Ack <http://search.cpan.org/perldoc?App::Ack>
+
+  Bundle::CPAN
+    Bundle::CPAN <http://search.cpan.org/perldoc?Bundle::CPAN>
+
+  Bundle::LWP
+    Bundle::LWP <http://search.cpan.org/perldoc?Bundle::LWP>
+
+  CPAN::Reporter
+    CPAN::Reporter <http://search.cpan.org/perldoc?CPAN::Reporter>
+
+  Metabase::Client::Simple
+    Metabase::Client::Simple
+    <http://search.cpan.org/perldoc?Metabase::Client::Simple>
+
+  Metabase::Fact
+    Metabase::Fact <http://search.cpan.org/perldoc?Metabase::Fact>
 
   Mozilla::CA
     Mozilla::CA <http://search.cpan.org/perldoc?Mozilla::CA>
@@ -83,20 +100,16 @@ TASKs
     Task::Kensho::XML Task::Kensho::XML
     <http://search.cpan.org/perldoc?Task::Kensho::XML>
 
+  Test::Reporter
+    Test::Reporter <http://search.cpan.org/perldoc?Test::Reporter>
+
+  Test::Reporter::Transport::Metabase
+    Test::Reporter::Transport::Metabase
+    <http://search.cpan.org/perldoc?Test::Reporter::Transport::Metabase>
+
 SEE ALSO
-    Inspired by
-
-    *   Task::BeLike::RJBS
-
-        <http://search.cpan.org/perldoc?Task::BeLike::RJBS>
-
-    *   Task::BeLike::hanekomu
-
-        <http://search.cpan.org/perldoc?Task::BeLike::hanekomu>
-
-    *   Task::BeLike::.*
-
-        <http://search.cpan.org/perldoc?Task::BeLike>
+    Task::BeLike::.*
+    <http://search.cpan.org/search?query=Task%3A%3ABelike&mode=all>
 
 SUPPORT
     You can also look for information at:

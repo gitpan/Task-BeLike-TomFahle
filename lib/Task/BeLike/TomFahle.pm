@@ -4,7 +4,7 @@ use strict;
 
 package Task::BeLike::TomFahle;
 
-our $VERSION = '0.11';
+our $VERSION = '0.12';
 
 1;
 
@@ -14,7 +14,7 @@ __END__
 
 =head1 NAME
 
-Task::BeLike::TomFahle
+Task::BeLike::TomFahle - Just an install package for CPAN modules I frequently use.
 
 =head1 DESCRIPTION
 
@@ -25,6 +25,26 @@ Just an install package for CPAN modules I frequently use.
 =head2 App::Ack
 
 App::Ack L<http://search.cpan.org/perldoc?App::Ack>
+
+=head2 Bundle::CPAN
+
+Bundle::CPAN L<http://search.cpan.org/perldoc?Bundle::CPAN>
+
+=head2 Bundle::LWP
+
+Bundle::LWP L<http://search.cpan.org/perldoc?Bundle::LWP>
+
+=head2 CPAN::Reporter
+
+CPAN::Reporter L<http://search.cpan.org/perldoc?CPAN::Reporter>
+
+=head2 Metabase::Client::Simple
+
+Metabase::Client::Simple L<http://search.cpan.org/perldoc?Metabase::Client::Simple>
+
+=head2 Metabase::Fact
+
+Metabase::Fact L<http://search.cpan.org/perldoc?Metabase::Fact>
 
 =head2 Mozilla::CA
 
@@ -110,27 +130,18 @@ Task::Kensho::WebDev L<http://search.cpan.org/perldoc?Task::Kensho::WebDev>
 
 Task::Kensho::XML Task::Kensho::XML L<http://search.cpan.org/perldoc?Task::Kensho::XML>
 
+=head2 Test::Reporter
+
+Test::Reporter L<http://search.cpan.org/perldoc?Test::Reporter>
+
+=head2 Test::Reporter::Transport::Metabase
+
+Test::Reporter::Transport::Metabase L<http://search.cpan.org/perldoc?Test::Reporter::Transport::Metabase>
+
 
 =head1 SEE ALSO
 
-Inspired by
-
-=over 4
-
-=item * Task::BeLike::RJBS
-
-L<http://search.cpan.org/perldoc?Task::BeLike::RJBS>
-
-=item * Task::BeLike::hanekomu
-
-L<http://search.cpan.org/perldoc?Task::BeLike::hanekomu>
-
-=item * Task::BeLike::.*
-
-L<http://search.cpan.org/perldoc?Task::BeLike>
-
-=back
-
+Task::BeLike::.* L<http://search.cpan.org/search?query=Task%3A%3ABelike&mode=all>
 
 =head1 SUPPORT
 
