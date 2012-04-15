@@ -4,7 +4,7 @@ use strict;
 
 package Task::BeLike::TomFahle;
 
-our $VERSION = '0.12';
+our $VERSION = '0.13';
 
 1;
 

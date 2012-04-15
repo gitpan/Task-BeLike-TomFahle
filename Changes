@@ -1,3 +1,6 @@
+0.13    2012-04-11/time
+    Fixed Task::Kensho::Logging Version Requirements
+
 0.12    2012-04-09/time
     Added Bundle::LWP
     For CPAN Testers/Reporters
