@@ -9,14 +9,23 @@ TASKs
   App::Ack
     App::Ack <http://search.cpan.org/perldoc?App::Ack>
 
-  Bundle::CPAN
-    Bundle::CPAN <http://search.cpan.org/perldoc?Bundle::CPAN>
-
-  Bundle::LWP
-    Bundle::LWP <http://search.cpan.org/perldoc?Bundle::LWP>
-
   CPAN::Reporter
     CPAN::Reporter <http://search.cpan.org/perldoc?CPAN::Reporter>
+
+  Digest::MD5
+    Digest::MD5 <http://search.cpan.org/perldoc?Digest::MD5>
+
+  HTML::HeadParser
+    HTML::HeadParser <http://search.cpan.org/perldoc?HTML::HeadParser>
+
+  HTML::Tagset
+    HTML::Tagset <http://search.cpan.org/perldoc?HTML::Tagset>
+
+  HTML::Parser
+    HTML::Parser <http://search.cpan.org/perldoc?HTML::Parser>
+
+  LWP
+    LWP <http://search.cpan.org/perldoc?LWP>
 
   Metabase::Client::Simple
     Metabase::Client::Simple
@@ -25,8 +34,14 @@ TASKs
   Metabase::Fact
     Metabase::Fact <http://search.cpan.org/perldoc?Metabase::Fact>
 
+  MIME::Base64
+    MIME::Base64 <http://search.cpan.org/perldoc?MIME::Base64>
+
   Mozilla::CA
     Mozilla::CA <http://search.cpan.org/perldoc?Mozilla::CA>
+
+  Net::FTP
+    Net::FTP <http://search.cpan.org/perldoc?Net::FTP>
 
   Perl::Tidy
     Perl::Tidy <http://search.cpan.org/perldoc?Perl::Tidy>
@@ -106,6 +121,9 @@ TASKs
   Test::Reporter::Transport::Metabase
     Test::Reporter::Transport::Metabase
     <http://search.cpan.org/perldoc?Test::Reporter::Transport::Metabase>
+
+  URI
+    URI <http://search.cpan.org/perldoc?URI>
 
 SEE ALSO
     Task::BeLike::.*

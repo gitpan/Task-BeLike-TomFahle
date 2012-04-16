@@ -4,7 +4,7 @@ use strict;
 
 package Task::BeLike::TomFahle;
 
-our $VERSION = '0.13';
+our $VERSION = '0.14';
 
 1;
 
@@ -26,17 +26,29 @@ Just an install package for CPAN modules I frequently use.
 
 App::Ack L<http://search.cpan.org/perldoc?App::Ack>
 
-=head2 Bundle::CPAN
-
-Bundle::CPAN L<http://search.cpan.org/perldoc?Bundle::CPAN>
-
-=head2 Bundle::LWP
-
-Bundle::LWP L<http://search.cpan.org/perldoc?Bundle::LWP>
-
 =head2 CPAN::Reporter
 
 CPAN::Reporter L<http://search.cpan.org/perldoc?CPAN::Reporter>
+
+=head2 Digest::MD5 
+
+Digest::MD5  L<http://search.cpan.org/perldoc?Digest::MD5>
+
+=head2 HTML::HeadParser
+
+HTML::HeadParser L<http://search.cpan.org/perldoc?HTML::HeadParser>
+
+=head2 HTML::Tagset
+
+HTML::Tagset  L<http://search.cpan.org/perldoc?HTML::Tagset>
+
+=head2 HTML::Parser
+
+HTML::Parser  L<http://search.cpan.org/perldoc?HTML::Parser>
+
+=head2 LWP
+
+LWP L<http://search.cpan.org/perldoc?LWP>
 
 =head2 Metabase::Client::Simple
 
@@ -46,9 +58,17 @@ Metabase::Client::Simple L<http://search.cpan.org/perldoc?Metabase::Client::Simp
 
 Metabase::Fact L<http://search.cpan.org/perldoc?Metabase::Fact>
 
+=head2 MIME::Base64
+
+MIME::Base64 L<http://search.cpan.org/perldoc?MIME::Base64>
+
 =head2 Mozilla::CA
 
 Mozilla::CA L<http://search.cpan.org/perldoc?Mozilla::CA> 
+
+=head2 Net::FTP
+
+Net::FTP L<http://search.cpan.org/perldoc?Net::FTP> 
 
 =head2 Perl::Tidy
 
@@ -138,6 +158,9 @@ Test::Reporter L<http://search.cpan.org/perldoc?Test::Reporter>
 
 Test::Reporter::Transport::Metabase L<http://search.cpan.org/perldoc?Test::Reporter::Transport::Metabase>
 
+=head2 URI
+
+URI L<http://search.cpan.org/perldoc?URI>
 
 =head1 SEE ALSO
 

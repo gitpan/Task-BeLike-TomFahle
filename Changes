@@ -1,4 +1,8 @@
-0.13    2012-04-11/time
+0.14    2012-04-16/time
+    Removed Bundle::CPAN
+    Removed Bundle::LWP
+    
+0.13    2012-04-15/time
     Fixed Task::Kensho::Logging Version Requirements
 
 0.12    2012-04-09/time

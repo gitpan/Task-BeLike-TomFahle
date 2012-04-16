@@ -20,12 +20,17 @@ no_index:
     - t
 requires:
   App::Ack: 1.96
-  Bundle::CPAN: 0
-  Bundle::LWP: 0
   CPAN::Reporter: 0
+  Digest::MD5: 0
+  HTML::HeadParser: 0
+  HTML::Parser: 0
+  HTML::Tagset: 0
+  LWP: 0
+  MIME::Base64: 0
   Metabase::Client::Simple: 0
   Metabase::Fact: 0
   Mozilla::CA: 0
+  Net::FTP: 0
   Perl::Tidy: 20101217
   Task::Kensho: 0.28
   Task::Kensho::Async: 0.28
@@ -47,9 +52,10 @@ requires:
   Task::Kensho::WebDev: 0.28
   Task::Kensho::XML: 0.28
   Test::Reporter: 0
+  URI: 0
   perl: 5.10.0
 resources:
   homepage: https://github.com/tomfahle/Task--BeLike--TomFahle
   license: http://dev.perl.org/licenses/
   repository: https://github.com/tomfahle/Task--BeLike--TomFahle.git
-version: 0.13
+version: 0.14
