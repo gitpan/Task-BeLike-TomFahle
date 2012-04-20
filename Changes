@@ -1,3 +1,6 @@
+0.15    2012-04-20/time
+    Removed load test - added bodus test
+
 0.14    2012-04-16/time
     Removed Bundle::CPAN
     Removed Bundle::LWP
