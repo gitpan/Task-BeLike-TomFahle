@@ -1,3 +1,28 @@
+0.20    2012-09-19/time
+    Added Parallel::Iterator
+
+0.19    2012-08-24/time
+    Added Dancer
+    Added Log::Dispatch::FileRotate
+    Added Logfile::Rotate
+    Added Test::Compile
+
+0.18    2012-08-23/time
+    Added Log::Dispatch
+    Added Log::Log4perl
+
+0.17    2012-08-16/time
+    Added Net::DNS
+    Added Test::TCP
+
+0.16    2012-06-2/time
+    Added Test::JSON
+    Added JSON 
+    Added JSON::Any
+    Added JSON::DWIW
+    Added JSON::Syck
+    Added JSON::XS
+
 0.15    2012-04-20/time
     Removed load test - added bodus test
 

@@ -4,7 +4,7 @@ use strict;
 
 package Task::BeLike::TomFahle;
 
-our $VERSION = '0.15';
+our $VERSION = '0.20';
 
 1;
 
@@ -30,9 +30,33 @@ App::Ack L<http://search.cpan.org/perldoc?App::Ack>
 
 CPAN::Reporter L<http://search.cpan.org/perldoc?CPAN::Reporter>
 
+=head2 Dancer
+
+Dancer L<http://perldancer.org/>
+
 =head2 Digest::MD5 
 
-Digest::MD5  L<http://search.cpan.org/perldoc?Digest::MD5>
+Digest::MD5 L<http://search.cpan.org/perldoc?Digest::MD5>
+
+=head2 JSON
+
+JSON L<http://search.cpan.org/perldoc?JSON>
+
+=head2 JSON::Any
+
+JSON::Any L<http://search.cpan.org/perldoc?JSON::Any>
+
+=head2 JSON::DWIW
+
+JSON::DWIW L<http://search.cpan.org/perldoc?JSON::DWIW>
+
+=head2 JSON::Syck
+
+JSON::Syck L<http://search.cpan.org/perldoc?JSON::Syck>
+
+=head2 JSON::XS 
+
+JSON::XS L<http://search.cpan.org/perldoc?JSON::XS>
 
 =head2 HTML::HeadParser
 
@@ -45,6 +69,22 @@ HTML::Tagset  L<http://search.cpan.org/perldoc?HTML::Tagset>
 =head2 HTML::Parser
 
 HTML::Parser  L<http://search.cpan.org/perldoc?HTML::Parser>
+
+=head2 Log::Dispatch 
+
+Log::Dispatch L<http://search.cpan.org/perldoc?Log%3A%3ADispatch> 
+
+=head2 Log::Dispatch::FileRotate
+
+=head2 Logfile::Rotate
+
+Logfile::Rotate L<http://search.cpan.org/perldoc?Logfile%3A%3ARotate>
+
+Log::Dispatch::FileRotate L<http://search.cpan.org/perldoc?Log%3A%3ADispatch%3A%3AFileRotate>
+
+=head2 Log::Log4perl 
+
+Log::Log4perl  L<http://search.cpan.org/perldoc?Log%3A%3ALog4perl>
 
 =head2 LWP
 
@@ -66,9 +106,17 @@ MIME::Base64 L<http://search.cpan.org/perldoc?MIME::Base64>
 
 Mozilla::CA L<http://search.cpan.org/perldoc?Mozilla::CA> 
 
+=head2 Net::DNS
+
+Net::DNS L<http://search.cpan.org/perldoc?Net::DNS> 
+
 =head2 Net::FTP
 
 Net::FTP L<http://search.cpan.org/perldoc?Net::FTP> 
+
+=head2 Parallel::Iterator
+
+Parallel::Iterator L<http://search.cpan.org/perldoc?Parallel%3A%3AIterator>  
 
 =head2 Perl::Tidy
 
@@ -150,6 +198,14 @@ Task::Kensho::WebDev L<http://search.cpan.org/perldoc?Task::Kensho::WebDev>
 
 Task::Kensho::XML Task::Kensho::XML L<http://search.cpan.org/perldoc?Task::Kensho::XML>
 
+=head2 Test::Compile
+
+Test::Compile L<http://search.cpan.org/perldoc?Test%3A%3ACompile>
+
+=head2 Test::JSON 
+
+Test::JSON  L<http://search.cpan.org/perldoc?Test::JSON>
+
 =head2 Test::Reporter
 
 Test::Reporter L<http://search.cpan.org/perldoc?Test::Reporter>
@@ -157,6 +213,10 @@ Test::Reporter L<http://search.cpan.org/perldoc?Test::Reporter>
 =head2 Test::Reporter::Transport::Metabase
 
 Test::Reporter::Transport::Metabase L<http://search.cpan.org/perldoc?Test::Reporter::Transport::Metabase>
+
+=head2 Test::TCP
+
+Test::TCP L<http://search.cpan.org/perldoc?Test::TCP>
 
 =head2 URI
 

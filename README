@@ -12,8 +12,26 @@ TASKs
   CPAN::Reporter
     CPAN::Reporter <http://search.cpan.org/perldoc?CPAN::Reporter>
 
+  Dancer
+    Dancer <http://perldancer.org/>
+
   Digest::MD5
     Digest::MD5 <http://search.cpan.org/perldoc?Digest::MD5>
+
+  JSON
+    JSON <http://search.cpan.org/perldoc?JSON>
+
+  JSON::Any
+    JSON::Any <http://search.cpan.org/perldoc?JSON::Any>
+
+  JSON::DWIW
+    JSON::DWIW <http://search.cpan.org/perldoc?JSON::DWIW>
+
+  JSON::Syck
+    JSON::Syck <http://search.cpan.org/perldoc?JSON::Syck>
+
+  JSON::XS
+    JSON::XS <http://search.cpan.org/perldoc?JSON::XS>
 
   HTML::HeadParser
     HTML::HeadParser <http://search.cpan.org/perldoc?HTML::HeadParser>
@@ -23,6 +41,19 @@ TASKs
 
   HTML::Parser
     HTML::Parser <http://search.cpan.org/perldoc?HTML::Parser>
+
+  Log::Dispatch
+    Log::Dispatch <http://search.cpan.org/perldoc?Log%3A%3ADispatch>
+
+  Log::Dispatch::FileRotate
+  Logfile::Rotate
+    Logfile::Rotate <http://search.cpan.org/perldoc?Logfile%3A%3ARotate>
+
+    Log::Dispatch::FileRotate
+    <http://search.cpan.org/perldoc?Log%3A%3ADispatch%3A%3AFileRotate>
+
+  Log::Log4perl
+    Log::Log4perl <http://search.cpan.org/perldoc?Log%3A%3ALog4perl>
 
   LWP
     LWP <http://search.cpan.org/perldoc?LWP>
@@ -40,8 +71,15 @@ TASKs
   Mozilla::CA
     Mozilla::CA <http://search.cpan.org/perldoc?Mozilla::CA>
 
+  Net::DNS
+    Net::DNS <http://search.cpan.org/perldoc?Net::DNS>
+
   Net::FTP
     Net::FTP <http://search.cpan.org/perldoc?Net::FTP>
+
+  Parallel::Iterator
+    Parallel::Iterator
+    <http://search.cpan.org/perldoc?Parallel%3A%3AIterator>
 
   Perl::Tidy
     Perl::Tidy <http://search.cpan.org/perldoc?Perl::Tidy>
@@ -115,12 +153,21 @@ TASKs
     Task::Kensho::XML Task::Kensho::XML
     <http://search.cpan.org/perldoc?Task::Kensho::XML>
 
+  Test::Compile
+    Test::Compile <http://search.cpan.org/perldoc?Test%3A%3ACompile>
+
+  Test::JSON
+    Test::JSON <http://search.cpan.org/perldoc?Test::JSON>
+
   Test::Reporter
     Test::Reporter <http://search.cpan.org/perldoc?Test::Reporter>
 
   Test::Reporter::Transport::Metabase
     Test::Reporter::Transport::Metabase
     <http://search.cpan.org/perldoc?Test::Reporter::Transport::Metabase>
+
+  Test::TCP
+    Test::TCP <http://search.cpan.org/perldoc?Test::TCP>
 
   URI
     URI <http://search.cpan.org/perldoc?URI>
