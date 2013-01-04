@@ -44,6 +44,7 @@ requires:
   Net::FTP: 0
   Parallel::Iterator: 0
   Perl::Tidy: 20101217
+  Sys::Statistics::Linux: 0
   Task::Kensho: 0.28
   Task::Kensho::Async: 0.28
   Task::Kensho::CLI: 0.29
@@ -73,4 +74,4 @@ resources:
   homepage: https://github.com/tomfahle/Task--BeLike--TomFahle
   license: http://dev.perl.org/licenses/
   repository: https://github.com/tomfahle/Task--BeLike--TomFahle.git
-version: 0.20
+version: 0.22

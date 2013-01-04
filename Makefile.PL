@@ -32,6 +32,7 @@ requires 'Net::DNS'                  => '0';
 requires 'Net::FTP'                  => '0';
 requires 'Perl::Tidy'                => '20101217';
 requires 'Parallel::Iterator'        => '0';
+requires 'Sys::Statistics::Linux'    => '0';
 requires 'Task::Kensho'              => '0.28';
 requires 'Task::Kensho::Async'       => '0.28';
 requires 'Task::Kensho::CLI'         => '0.29';

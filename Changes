@@ -1,3 +1,9 @@
+0.22    2012-12-16/time
+    Added Sys::Statistics::Linux
+
+0.21    2012-12-08/time
+    Fixed some typos
+
 0.20    2012-09-19/time
     Added Parallel::Iterator
 

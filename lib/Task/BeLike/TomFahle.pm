@@ -4,7 +4,7 @@ use strict;
 
 package Task::BeLike::TomFahle;
 
-our $VERSION = '0.20';
+our $VERSION = '0.22';
 
 1;
 
@@ -74,13 +74,13 @@ HTML::Parser  L<http://search.cpan.org/perldoc?HTML::Parser>
 
 Log::Dispatch L<http://search.cpan.org/perldoc?Log%3A%3ADispatch> 
 
-=head2 Log::Dispatch::FileRotate
+=head2 Log::Dispatch::FileRotate 
+
+Log::Dispatch::FileRotate L<http://search.cpan.org/perldoc?Log%3A%3ADispatch%3A%3AFileRotate>
 
 =head2 Logfile::Rotate
 
 Logfile::Rotate L<http://search.cpan.org/perldoc?Logfile%3A%3ARotate>
-
-Log::Dispatch::FileRotate L<http://search.cpan.org/perldoc?Log%3A%3ADispatch%3A%3AFileRotate>
 
 =head2 Log::Log4perl 
 
@@ -121,6 +121,10 @@ Parallel::Iterator L<http://search.cpan.org/perldoc?Parallel%3A%3AIterator>
 =head2 Perl::Tidy
 
 Perl::Tidy L<http://search.cpan.org/perldoc?Perl::Tidy>
+
+=head2 Sys::Statistics::Linux
+
+Sys::Statistics::Linux L<http://search.cpan.org/perldoc?Sys::Statistics::Linux>
 
 =head2 Task::Kensho
 

@@ -46,11 +46,11 @@ TASKs
     Log::Dispatch <http://search.cpan.org/perldoc?Log%3A%3ADispatch>
 
   Log::Dispatch::FileRotate
-  Logfile::Rotate
-    Logfile::Rotate <http://search.cpan.org/perldoc?Logfile%3A%3ARotate>
-
     Log::Dispatch::FileRotate
     <http://search.cpan.org/perldoc?Log%3A%3ADispatch%3A%3AFileRotate>
+
+  Logfile::Rotate
+    Logfile::Rotate <http://search.cpan.org/perldoc?Logfile%3A%3ARotate>
 
   Log::Log4perl
     Log::Log4perl <http://search.cpan.org/perldoc?Log%3A%3ALog4perl>
@@ -83,6 +83,10 @@ TASKs
 
   Perl::Tidy
     Perl::Tidy <http://search.cpan.org/perldoc?Perl::Tidy>
+
+  Sys::Statistics::Linux
+    Sys::Statistics::Linux
+    <http://search.cpan.org/perldoc?Sys::Statistics::Linux>
 
   Task::Kensho
     Task::Kensho <http://search.cpan.org/perldoc?Task::Kensho>
